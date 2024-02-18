@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Frontend devlopement**
 
-- 📫 How to reach me **programwithnitish@gmail.com**
+- 📫 How to reach me **mandalnitish570@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
