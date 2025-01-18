@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nitishmandl_01" target="blank"><img src="https://img.shields.io/twitter/follow/nitishmandl_01?logo=twitter&style=for-the-badge" alt="nitishmandl_01" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Full Stack WEB Devlopement**
 
 - 💬 Ask me about **Frontend devlopement**
 
