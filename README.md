@@ -128,7 +128,7 @@ I'm currently looking for **Full Stack Developer**, **Frontend/Backend Developer
 
 <div align="center">
   <a href="https://hashnode.com/@nitishmandal" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+    <img src="file:///home/nitish/Documents/PERSONAL%20INFORMATION/Certifications/Pasted%20image.png" alt="Hashnode" />
   </a>
 </div>
 
