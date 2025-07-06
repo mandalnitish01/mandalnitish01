@@ -31,7 +31,7 @@ Passionate **Full Stack Developer** and **Technical Writer** who enjoys building
 
 <div align="center">
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Full_Stack_Event_Platform_Platform-4B275F?style=for-the-badge" alt="Current Project" />
+    <img src="https://img.shields.io/badge/LeetLab-4B275F?style=for-the-badge" alt="Current Project" />
   </a>
 </div>
 
@@ -128,7 +128,7 @@ I'm currently looking for **Full Stack Developer**, **Frontend/Backend Developer
 
 <div align="center">
   <a href="https://hashnode.com/@nitishmandal" target="_blank">
-    <img src="file:///home/nitish/Documents/PERSONAL%20INFORMATION/Certifications/Pasted%20image.png" alt="Hashnode" />
+   <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
   </a>
 </div>
 
@@ -138,7 +138,7 @@ I'm currently looking for **Full Stack Developer**, **Frontend/Backend Developer
       <h3 align="center">JavaScript Array Methods</h3>
       <div align="center">
         <a href="https://network-concept.hashnode.dev/understanding-arrays-and-their-methods-with-real-life-examples" target="_blank">
-          <img src="file:///home/nitish/Documents/PERSONAL%20INFORMATION/Certifications/Pasted%20image.png" width="100%" height="180px" style="object-fit:cover; border-radius:5px" alt="JavaScript Arrya Blog"/>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGgLPlqYHjbZNrqicPVXVYtfhraoLCe8kWHQ&s" width="100%" height="180px" style="object-fit:cover; border-radius:5px" alt="JavaScript Arrya Blog"/>
         </a>
         <p>
           <strong>10 JavaScript array Methods you learn here in easy formate.
