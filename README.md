@@ -35,7 +35,7 @@ Passionate **Full Stack Developer** and **Technical Writer** who enjoys building
   </a>
 </div>
 
-I'm currently building a full-featured LeetLab using the MERN stack (Postgress, Express, React, Node.js). This project focuses on implementing secure authentication and access to the user, responsive design, and optimized performance metrics.
+I'm currently building a full-featured LeetLab using the PERN stack (Postgress, Express, React, Node.js). This project focuses on implementing secure authentication and access to the user, responsive design, and optimized performance metrics.
 
 ## Open to Opportunities 💼
 
