@@ -18,7 +18,7 @@
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding gif" />
 
-Passionate **Full Stack Developer** and **Technical Writer** who enjoys building web applications and sharing knowledge with the developer community. I graduated with a 7.3 CGPA in Computer Application and hold IIT Kanpur FullStack Devloper certification. I regularly write tutorials and articles on Hashnode, focusing on JavaScript and web development topics. When I'm not coding or writing, you'll find me on the cricket field. I believe in continuous learning and am currently expanding both my project portfolio and technical content library.
+Passionate **Full Stack Developer** and **Technical Writer** who enjoys building web applications and sharing knowledge with the developer community. I graduated with a 7.33 CGPA in Computer Application and hold IIT Kanpur FullStack Devloper certification. I regularly write tutorials and articles on Hashnode, focusing on JavaScript and web development topics. When I'm not coding or writing, you'll find me on the cricket field. I believe in continuous learning and am currently expanding both my project portfolio and technical content library.
 
 - 🎓 **Bachelor of Technology** in Computer Application
 - 🌟 **IIT Kanpur** in FullStack Web Devlopement Bootcamp
