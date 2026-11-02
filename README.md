@@ -153,12 +153,13 @@ I'm currently looking for **Full Stack Developer**, **Frontend/Backend Developer
   </tr>
 </table>
 
-## GitHub Stats 📊
+## 📈 Contribution Graph
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/username=mandalnitish01&show_icons=true&locale=en&theme=react&hide_border=true" alt="GitHub Stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/username=mandalnitish01&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" />
+  <img src="https://ghchart.rshah.org/00BFFF/mandalnitish01" alt="GitHub Contribution Graph" width="100%"/>
 </div>
+
+
 
 <div align="center">
   
