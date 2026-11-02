@@ -156,8 +156,8 @@ I'm currently looking for **Full Stack Developer**, **Frontend/Backend Developer
 ## GitHub Stats 📊
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mandalnitish01&show_icons=true&locale=en&theme=react&hide_border=true" alt="GitHub Stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandalnitish01&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/username=mandalnitish01&show_icons=true&locale=en&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/username=mandalnitish01&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" />
 </div>
 
 <div align="center">
@@ -166,5 +166,5 @@ I'm currently looking for **Full Stack Developer**, **Frontend/Backend Developer
 </div>
 
 <div align="center">
-  <i>Let's connect and build something amazing together! </i>
+  <i>Let's connect and build something amazing together!</i>
 </div>
