@@ -166,5 +166,5 @@ I'm currently looking for **Full Stack Developer**, **Frontend/Backend Developer
 </div>
 
 <div align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>Let's connect and build something amazing together! </i>
 </div>
